@@ -6,4 +6,4 @@ This folder contains the changed code of PyPSA-eur, that I modified during my Ma
 The modifications are:
 * introduction of limits to conventional installed capacities in the script scripts/build_powerplants.py
 * introduction of min. limits to variable renewable installed capacities in the script scripts/solve_network.py
-* simulation of CCS technologies due to introduction of new technologies in the data/cost.csv file
+* simulation of CCS technologies due to ajustment of the specific CO2 emissions considering the share and their specific CO2 emissions respectively in the data/cost.csv file
